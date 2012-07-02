@@ -1,4 +1,4 @@
-
+psp.web is moved into [noradle](https://github.com/kaven276/noradle) as a part now and it's frozen. 
 
 please see [Introduction of PSP.WEB](psp.web/blob/master/doc/introduction.md) at doc/introduction.md on github (format will lose)
 
